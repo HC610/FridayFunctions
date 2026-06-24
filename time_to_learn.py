@@ -53,11 +53,3 @@ if start == "":
         print("Invalid input. Only press Enter.")
 else:
     print("Invalid input. Only press Enter.")
-
-
-    
-
-
-
-
-
